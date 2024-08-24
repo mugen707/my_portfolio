@@ -1,0 +1,46 @@
+body {
+    background-color: #171717;
+    background-image: url("../assets/moon.jpg");
+    color: #e0e0e0;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: 2500px;
+
+
+  }
+  
+  .app {
+    text-align: center;
+  }
+  
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+  
+  header, section {
+    border-radius: 15px;
+    background-color: #18181ee6;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  a {
+    color: #bb86fc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #03dac6;
+  }
+  
+  img {
+    border-radius: 50%;
+  }
+  
+  .icon {
+    width: 50px;
+    margin: 0 px;
+  }
+  

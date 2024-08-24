@@ -1,0 +1,25 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+    background-color: #18181ee6;
+    color: white;
+  }
+  
+  .profile-image {
+    width: 170px; /* Уменьшение ширины */
+    height: 170px; /* Уменьшение высоты */
+    border-radius: 50%; /* Сделает изображение кругом */
+    margin-top: 20px;
+  }
+  
+  .intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .intro p {
+    font-size: 1.2rem;
+  }
+  

@@ -1,0 +1,15 @@
+.contact {
+    padding: 50px 20px;
+    background-color: #18181ee6;
+    color: white;
+  }
+  
+  .contact a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
